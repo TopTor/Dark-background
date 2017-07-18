@@ -11,3 +11,5 @@
             return $twig->render('Theme::content.Theme');
         }
     }
+    
+    ?>
