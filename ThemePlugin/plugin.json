@@ -12,7 +12,7 @@
             {
                 "key"           :"Theme\\Containers\\ThemeContainer",
                 "name"          :"Dark background",
-                "description"   :"Change the background colour of the Ceres template"
+                "description"   :"Change the background colour of the Ceres template",
             }
         ]
     }
