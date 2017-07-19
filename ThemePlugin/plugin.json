@@ -2,7 +2,7 @@
         "name"                  :"Theme",
         "description"           :"Basic theme plugin",
         "namespace"             :"Theme",
-        "author"                :"Your name",
+        "author"                :"Victor Noual",
         "keywords"              : ["theme", "Ceres", "template"],
         "type"                  :"theme",
         "require"               : [],
@@ -11,8 +11,8 @@
         [
             {
                 "key"           :"Theme\\Containers\\ThemeContainer",
-                "name"          :"Dark background",
-                "description"   :"Change the background colour of the Ceres template",
+                "name"          :"Schwarzer Hintergrund",
+                "description"   :"Ändert die Hintergrundsfarbe des Ceres Templates",
             }
         ]
     }
