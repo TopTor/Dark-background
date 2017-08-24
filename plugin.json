@@ -1,7 +1,7 @@
     {
-        "name"                  :"Dark-background",
+        "name"                  :"Theme",
         "description"           :"Basic theme plugin",
-        "namespace"             :"Dark-background",
+        "namespace"             :"Theme",
         "author"                :"Victor Noual",
         "keywords"              : ["theme", "Ceres", "template"],
         "type"                  :"theme",
